@@ -1,0 +1,27 @@
+.btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 20px;
+  min-width: 60px;
+  margin-right: 10px;
+
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+
+  background-color: #398be6;
+  border: 1px solid rgb(40, 82, 128);
+  box-shadow: 2px 2px 5px rgb(40, 82, 128);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  color: white;
+  background-color: rgb(34 44 179);
+}
+
+.box {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
